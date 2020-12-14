@@ -186,12 +186,6 @@ body {
 }
 
 
-@media (max-width: 1000px) {
-  .header-nav-item {
-    display: block;
-  }
-}
-
 @media (max-width: 960px) {
   .column-1-4 {
     float: left;

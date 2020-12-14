@@ -105,8 +105,7 @@ body {
 
 .intro {
   background-color: rgba(0, 0, 0, 0);
-  background-image: linear-gradient(rgb(58, 83, 97), rgba(131, 122, 134, 0.5) 30%),
-                    url("../img/bees.jpg");
+  background-image: linear-gradient(rgb(58, 83, 97), rgba(131, 122, 134, 0.5) 30%);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll, fixed;

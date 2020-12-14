@@ -50,9 +50,16 @@
     float: none;
   }
 
+  .header-nav {
+    line-height: 40px;
+  }
+
+  .header-logo {
+    height: 40px;;
+  }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   .header-nav-item {
     display: block;
   }

@@ -88,10 +88,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll, fixed;
   background-position: 0 0%, center;
-
   color: #fff;
   padding: 120px;
   margin-top: 72px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .intro .text-lead {
@@ -184,7 +187,6 @@ body {
   flex: 0 0 auto;
   height: 30px;
 }
-
 
 @media (max-width: 960px) {
   .column-1-4 {
